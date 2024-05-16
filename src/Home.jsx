@@ -1,7 +1,7 @@
 
 import gitImg from "./assets/Images/github.png";
 import LinkIn from "./assets/Images/linkedin.png";
-import Profile from "./assets/Images/Photo-01.jpeg"
+import Profile from "./assets/Images/Profile.jpg";
 import MyComponent from "./AnimationText";
 import Skills from "./Skills";
 
