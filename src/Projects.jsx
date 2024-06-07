@@ -17,7 +17,7 @@ const Projects =()=>{
         className="  md:h-full md:w-full transform transition-transform duration-1000 md:group-hover:-translate-y-full group-hover:-translate-y-1/3"
         style={{ height: '100%', width: '100%' }}
       >
-        <a target="_blank" href=" https://gauravsaini81.github.io/E-Commerce-The_CleanStylefashion/"> <img
+        <a target="_blank" href=" https://gauravsaini003.github.io/Fashion-website/"> <img
           src={ProjectImg}
           alt="project Image"
          
@@ -43,7 +43,7 @@ A clothing e-commerce website is an online platform dedicated to the buying and 
 </div>
 
 <div className="flex md:space-x-24 space-x-3   justify-center md:ps-12 ps-3 pt-20">
-<a href="https://github.com/GauravSaini81/E-Commerce-The_CleanStylefashion">
+<a href="https://github.com/GauravSaini003/Fashion-website">
 <div className="flex items-center p-3 shadow-2xl ">
  
   <h3 className="text-xl font-bold me-3"> SOURCE CODE </h3>
@@ -52,7 +52,9 @@ A clothing e-commerce website is an online platform dedicated to the buying and 
   
 </div>
 </a>
-<a href=" https://gauravsaini81.github.io/E-Commerce-The_CleanStylefashion/">
+<a href=" https://gauravsaini003.github.io/Fashion-website/
+
+">
 <div className="flex items-center p-3 shadow-2xl ">
  
   <h3 className="text-xl font-bold me-3">LIVE DEMO </h3>

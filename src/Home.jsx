@@ -26,7 +26,7 @@ Hello I m , <br />
 Enthusiastic React developer, good at solving problems, and someone who enjoys development and  coding. Let's work together to make great things happen! &#x2728;
 </h3>
 <div className="flex">
-    <a href="https://github.com/GauravSaini81" target="_blank"><img className="m-3 w-[2rem] h-[2rem]" src={gitImg} alt="Repositiory" /></a>
+    <a href="https://github.com/GauravSaini003" target="_blank"><img className="m-3 w-[2rem] h-[2rem]" src={gitImg} alt="Repositiory" /></a>
 <a href="https://www.linkedin.com/in/gaurav-saini-248aaa223/" target="_blank"><img className=" m-3 w-[2rem] h-[2rem]" src={LinkIn} alt="social handle" /></a>
 
 

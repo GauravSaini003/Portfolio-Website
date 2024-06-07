@@ -25,7 +25,7 @@ const Contact =()=>{
     <img className="h-16 w-16" src={GmailImG}alt="" />
     <div  className="ps-6 flex flex-col">
     <h6>Location</h6>
-   <a href="mailto:gaurav8191@gmail.com">gaurav8191@gmail.com </a>
+   <a href="mailto:gaurav8191@gmail.com">gaurav8191saini@gmail.com </a>
    </div>
    </div>
     
